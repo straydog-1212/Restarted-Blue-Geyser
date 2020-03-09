@@ -1,0 +1,26 @@
+/* Box-sizing border-box */
+* { box-sizing: border-box; }
+
+
+/* Some default styles to make each box visible. This targets all items with a class that starts with "box" */
+[class^="box"] {
+  color:white;
+  font-size: 100px;
+  text-align: center;
+  text-shadow:4px 4px 0 rgba(0,0,0,0.1);
+  padding:10px;
+}
+
+/* Colors for each box */
+.box1 { background:black;}
+.box2 { background:black;}
+.box3 { background:black ;}
+.box4 { background:black;}
+.box5 { background: #000000;;}
+.box6 { background: #000000;;}
+.box7 { background: black;}
+.box8 { background: #000000;;}
+.box9 { background:#000000;}
+.box10 { background:#000000;}
+div.continer>div.box-$$*6
+div.conttatiret>div.box-$$*10>div.38
